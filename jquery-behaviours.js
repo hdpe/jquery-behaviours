@@ -97,9 +97,9 @@
     }
   };
 
-	/*
-	 * Return the behaviours array sorted by priority.
-	 */
+  /*
+   * Return the behaviours array sorted by priority.
+   */
   function getSortedBehaviours() {
     var sorted = behaviours.slice();
     sorted.sort(function(a, b) {

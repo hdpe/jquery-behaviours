@@ -1,5 +1,5 @@
 var jsdom = require('jsdom'),
-    jquery = require('jquery');
+  jquery = require('jquery');
 
 describe('jquery-behaviours', function() {
 
@@ -71,7 +71,7 @@ describe('jquery-behaviours', function() {
   function doWithDocument(html, callback) {
 
     var dom = new jsdom.JSDOM(html),
-        $ = jquery(dom.window);
+      $ = jquery(dom.window);
 
     require('../jquery-behaviours.js')($);
 
