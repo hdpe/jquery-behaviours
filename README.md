@@ -1,5 +1,7 @@
 ## jquery-behaviours ##
 
+[![Build Status](https://travis-ci.org/hdpe/jquery-behaviours.svg?branch=master)](https://travis-ci.org/hdpe/jquery-behaviours)
+
 Simple jQuery plugin for behaviour attaching. For when you don't have anything
 like the need for a full-blown front-end framework à la Angular or React.
 
