@@ -7,7 +7,7 @@
     "test": "jasmine"
   },
   "author": "Ryan Pickett",
-  "license": "Apache-2.0",
+  "license": "MIT",
   "dependencies": {
     "jquery": "^3.2.1"
   },
