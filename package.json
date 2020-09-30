@@ -1,6 +1,6 @@
 {
   "name": "jquery-behaviours",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "JQuery behaviour registry plugin",
   "main": "jquery-behaviours.js",
   "scripts": {
