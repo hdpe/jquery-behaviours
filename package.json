@@ -13,6 +13,6 @@
   },
   "devDependencies": {
     "jasmine": "^2.6.0",
-    "jsdom": "^11.0.0"
+    "jsdom": "^16.5.0"
   }
 }
